@@ -1,0 +1,134 @@
+{
+  "NavigationBar": {
+    "menu": {
+      "home": "HEM",
+      "about": "OM RISE TO THE OCCASION",
+      "work-out": "TRÄNING",
+      "back": "RYGG",
+      "legs": "BEN",
+      "stomach": "MAGE"
+    }
+  },
+  "HomePage": {
+    "firstSection": {
+      "text": "Träning fyller en stor del av mitt liv. Vill du liksom jag peppas av nya övningar som får dig att må bra och komma ett steg längre. Ta del av min övningar och"
+    },
+    "ImgSection": {
+      "text": "Kolla in lite av de övningar du kan få till hemma",
+      "back_exercices": "Ryggövningar",
+      "stomach_exercices": "Magövningar",
+      "leg_exercices": "Benövningar"
+    }
+  },
+  "About": {
+    "text1": " är en samlingssida för övningar att inspireras av. Indelat på:  ",
+    "text2": ", ",
+    "text3": "och ",
+    "text4": "De här kan du göra varje dag. Tanken är att sidan ska uppdateras med nya övningar månadsvis så håll utkik! ",
+    "stomach": "MAGE",
+    "back": "RYGG",
+    "legs": "BEN"
+  },
+  "BackSection": {
+    "title": "Ryggövningar",
+    "sub_title": "Ryggen täcker en stor del av vår kropp och kan delas in i olika delar. Ryggkotor, skulderblad, ländrygg och korsrygg. Ofta när man har ont i ryggen så har man ont i ländryggen. Det kan bero på att man suttit länge exempelvis vid arbete. Rörelse är alltid bra oavsett om man har ont.",
+    "peeing_dog": {
+      "title": "Kissande hunden",
+      "text": "Den här övningen är bra för att förhindra ryggsmärta men tar på rumpa, höft och bål.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Ställ dig på alla fyra med dina knän under höften och händer under axlarna.",
+      "2": "Behåll ett böjt knä och lyft höger ben upp mot sidan, tills det att benet är i samma höjd som höften.",
+      "3": "För sedan tillbaka benen till startpositionen på ett kontrollerat vis.",
+      "4": "Repetera rörelsen åt motsatt håll. Detta räknas då som en repetition."
+    },
+    "superMan": {
+      "title": "Superman",
+      "text": "Superman stärker ländryggens styrka och flexibilitet.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Ligg på golvet med magen ner. Sträck ut armarna framför dig så att de är parallella med golvet, handflatorna nedåt.",
+      "2": "Spänn din core och knip skinkorna.",
+      "3": "Lyft överkroppen och benen från golvet så högt du kan medan du sträcker dig framåt med armarna och bakåt med benen.",
+      "4": "Håll positionen i 3-5 sekunder.",
+      "5": "Återgå till startpositionen och upprepa."
+    },
+    "catCow": {
+      "title": "Cat/Cow",
+      "text": "Skulderbladen är ett vanligt smärtpunkts-område och orsaken är oftast en irritation i revbenenen. Cat/Cow övningen kan lindra problemen.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Stå på alla fyra. Se till så att dina händer är axelbrett isär. Sära på fingrarna. Hela handen ska vara i golvet. Se även till så att dina fötter och knän är höftbrett isär.",
+      "2": "Andas in djupt medan du rundar din nedre rygg och för huvudet uppåt. Tippa ditt bäcken som en \"ko\"(svanka).",
+      "3": "Andas ut och rikta svanskotan ned och för huvudet ner som en \"katt\" skjuter rygg.",
+      "4": "Repetera övningen flera gånger."
+    }
+  },
+  "LegSection": {
+    "title": "Benövningar",
+    "sub_title": "Benen är den största muskelgruppen och bär upp din övriga fysik. För att förhindra överbelastning på höft- och knäleder är det bra att träna benen.",
+    "lunges": {
+      "title": "Utfall",
+      "text": "Utfall är en bra övning om du vill få in både benträning som balans och koordination.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Sträck på ryggen, placera händerna på höfterna.",
+      "2": "Med det ena benet tar du ett långt steg framåt(knäet ska bilda en 90-gradig vinkel), så att det känns i fram-och baksida lår.",
+      "3": "Samtidigt böjer du det andra knäet så att det nästan nuddar golvet.",
+      "4": "Gå tillbaka till startpositionen genom att trycka bakåt igen.",
+      "5": "Upprepa samma rörelse med det andra benet."
+    },
+    "squats": {
+      "title": "Squats",
+      "text": "Squats är en bra övning för den tar på så många olika muskelgrupper. Du tränar höfter, rumpa, ben, mage och rygg. Du får även in koordination och balans.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Ställ dig rak i ryggen med benen axelbrett isär.",
+      "2": "Spänn magen och sänk underkroppen långsamt.",
+      "3": "Känn spänningen i rumpa och ben, håll dock ryggen rak och titta rakt fram.",
+      "4": "Uppgången ska ske snabbare än nedgången, pressa ifrån med rumpan."
+    },
+    "hipLift": {
+      "title": "Höftlyft",
+      "text": "Med höftlyftningar tränar du rumpa, baksida lår, höftböjaren, bål och yttre sneda magmuskeln.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Sätt dina fötter i golvet och se till att hälarna pressas ned mot golvet så att du känner av musklerna som finns i rumpan.",
+      "2": "Axlar och skuldror ligger tätt mot golvet.",
+      "3": "Nu lyfter du höften så att du får en rak linje mellan axlar och knän.",
+      "4": "Sänk ned höften igen långsamt."
+    }
+  },
+  "StomachSection": {
+    "title": "Magövningar",
+    "sub_title": "Att ha en bra magmuskulatur förhindrar ryggproblem. Den påverkar din hållning och skapar en balans mellan rygg och mage.",
+    "plank": {
+      "title": "Plankan",
+      "text": "Plankan är en av de bästa övningarna för din core muskulatur. Förutom en bra tränad mage stabiliserar den din ryggrad. Eftersom det är en rätt tuff övning räcker det med att ligga i den i tre omgångar a 1-3 munter.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Låt armbågarna vara exakt under axlarna och stöd dig på dom.",
+      "2": "Upp med fötterna och stöd dig på tårna.",
+      "3": "Håll ben och fötter lite isär.",
+      "4": "Låt ryggen vara spikrak utan att svanka eller skjuta med den.",
+      "5": "Spänn magen för att underlätta den raka linjen på kroppen."
+    },
+    "bicycleCrunch": {
+      "title": "Cyklande situp",
+      "text": "Den cyklande situpen kräver lite mer uppmärksamhet på detaljer än vad den vanliga situpen gör. Den tar på både buk och sneda magmuskler.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Lägg dig ner på rygg och lyft dina axlar från marken som att du skulle göra en vanlig situp.",
+      "2": "Höj båda benen från marken.",
+      "3": "Andas ut och spänn magen samtidigt som du för ditt högra knä mot vänster armbåge. Vänster ben ska hållas helt rakt under denna rörelse.",
+      "4": "För tillbaka höger ben till utgångspositionen och repetera rörelsen på motsatt sida."
+    },
+    "legRaise": {
+      "title": "Benlyft",
+      "text": "Benlyft är en ganska tuff övning och den tar på den raka magmuskeln och inre lår men hjälper även till att få en bra höftstyrka och flexibiltet.",
+      "practise": "GÖR SÅHÄR:",
+      "1": "Lägg dig på rygg på golvet eller på en bänk och lägg dina händer under rumpan.",
+      "2": "Håll benen raka och höj dem mot din panna medan du spänner magen.",
+      "3": "När din mage är spänd och benen är pekar rakt upp är det dags att ta ner benen igen. Det gör du lugnt och kontrollerat.",
+      "4": "Sähär fortsätter du. Upp och ner."
+    }
+  },
+  "footer": {
+    "contact": "Kontakta mig",
+    "follow": "Följ mig",
+    "work": "Mina andra projekt",
+    "copy": "@2022 Rise to the occasion"
+  }
+}

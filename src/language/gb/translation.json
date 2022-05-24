@@ -1,0 +1,134 @@
+{
+  "NavigationBar": {
+    "menu": {
+      "home": "HOME",
+      "about": "ABOUT RISE TO THE OCCASION",
+      "work-out": "WORK-OUT",
+      "Back": "BACK",
+      "Legs": "LEGS",
+      "Stomach": "STOMACH"
+    }
+  },
+  "HomePage": {
+    "firstSection": {
+      "text": "Exercising is a big part of who I am. If you want to be challenged by new exercises that makes you feel better and take it to the next level. Take part of my exercises and"
+    },
+    "ImgSection": {
+      "text": "Check out some exercises you can do from home",
+      "back_exercices": "Back exercises",
+      "stomach_exercices": "Stomach exercises",
+      "leg_exercices": "Leg exercises"
+    }
+  },
+  "About": {
+    "text1": " is a collected site for exercises to be inspired of. Divided into parts of:  ",
+    "text2": ", ",
+    "text3": "and ",
+    "text4": "These you can do each day. The thought is change exercises monthly so stay tuned!",
+    "stomach": "STOMACH",
+    "back": "BACK",
+    "legs": "LEGS "
+  },
+  "BackSection": {
+    "title": "Back exercises",
+    "sub_title": "The back covers a big part of your body and can be divided into the different parts. Vertebrae, scapula, lower-back and lumbar. Often when you have a back pain the problem is in the lower-back. This can arise due to work when sitting too long in the same position. Movement is always good when in pain.",
+    "peeing_dog": {
+      "title": "Peeing dog",
+      "text": "This exercice is good for preventing back pain but touches on your bottom, hip and core.",
+      "practise": "HERE'S HOW:",
+      "1": "Stand on all fours with your knees below your hips and hands under your shoulders.",
+      "2": "Keep one knee bent and lift right leg up towards the side, until your leg is in the same height as the hip.",
+      "3": "Then pull your leg back to the starting position in a controlled manner.",
+      "4": "Repeat the movement in the other direction. This is counted as a repetition."
+    },
+    "superMan": {
+      "title": "Superman",
+      "text": "The Superman exercice helps imporoving the lower-backs strenght and flexibility.",
+      "practise": "HERE'S HOW:",
+      "1": "Lie on your stomach. Stretch your arms in front of you so that they are parallell to the floor, palms down.",
+      "2": "Tension your core and squeeze your cheeks.",
+      "3": "Lift the upper body and the legs from the floor as high as you can while you reach forward with your arms and backwards with your legs.",
+      "4": "Hold the position for 3-5 seconds.",
+      "5": "Go back to the starting position and repeat."
+    },
+    "catCow": {
+      "title": "Cat/Cow",
+      "text": "The shoulderblades are a common pain point area. The reason for this is often an irritation in the ribs. The Cat/Cow exercice can relieve some tension.",
+      "practise": "HERE'S HOW:",
+      "1": "Stand on all fours. Make sure that your hands are shoulder-width apart. Spread your fingers. The whole hand should touch the ground. Also make sure your knees and feet are hip-width apart.",
+      "2": "Breath in deeply while curving your lower back and bringing your head up, tilting your pelvis up like a \"cow\"(arch).",
+      "3": "Exhale deeply and bring your abdomen in, arching your spine and bringing your head and pelvis down like a \"cat\"(hog).",
+      "4": "Repeat several times."
+    }
+  },
+  "LegSection": {
+    "title": "Leg exercises",
+    "sub_title": "The legs are the biggest muscular group and carries the rest of the body. To prevent an overload in the knees and hip area it is good to exercice the legs.",
+    "lunges": {
+      "title": "Lunges",
+      "text": "Lunges is a good exercice if you want to train legs and balance as well as coordination.",
+      "practise": "HERE'S HOW:",
+      "1": "Straighten your back, place your hands on your hip",
+      "2": "Take a long step forward with one leg(the knee should make a 90-degree angle), so that you can feel it in front- and backside of your thigh",
+      "3": "At the same time you bend the other knee so that it almost touches the ground.",
+      "4": "Go back to the starting position by pushing back again.",
+      "5": "Repeat the same movement with the other leg."
+    },
+    "squats": {
+      "title": "Squats",
+      "text": "Squats is a good exercice because it covers a lot of different muscle groups. With this exercice you will cover hips, buttom, legs, stomach and back. You will also exercice your balance and coordination.",
+      "practise": "HERE'S HOW:",
+      "1": "Stand straight with your legs shoulder-width apart.",
+      "2": "Tension your stomach and lower your lower body slowly.",
+      "3": "Feel the tension in the buttom and legs, though keep your back straight and look forward.",
+      "4": "The arise should be quicker than the fall. Push away with your bottom."
+    },
+    "hipLift": {
+      "title": "Hiplift",
+      "text": "With a hiplift you will exercice bottom, backside thigh, hip flexor, core and the external abdominal muscle.",
+      "practise": "HERE'S HOW:",
+      "1": "Put your feet on the floor and make sure that the heels are pressed down to the floor so that you can feel the muscles in your bottom.",
+      "2": "Shoulders and shoulder blades tight to the floor.",
+      "3": "Now you lift the hip so that you get a straight line between shoulders and knees.",
+      "4": "Sink the hip again slowly."
+    }
+  },
+  "StomachSection": {
+    "title": "Stomach exercises",
+    "sub_title": "To have a good abdominal muscles prevents back pain. It affects your posture and creates a good balance between back and stomach.",
+    "plank": {
+      "title": "The plank",
+      "text": "The plank is one of the best exercises for your core stability. Except well trained abdominal muscles it stabilizes the spine. Since it is quite tough it´s enough to exercise it in 1-3 minutes 3 times.",
+      "practise": "HERE'S HOW:",
+      "1": "Let your elbows be exact under your shoulders and support yoursef on them.",
+      "2": "Raise your feet and support your weight on the toes.",
+      "3": "Keep legs and feet a bit apart.",
+      "4": "Let your back be straight without arching or hogging.",
+      "5": "Tension your stomach to facilitate the straight line on the body."
+    },
+    "bicycleCrunch": {
+      "title": "Bicycle crunch",
+      "text": "The bicycling crunch demands a little more attention to details than the normal sit-up do. It works your abdominals and obliques.",
+      "practise": "HERE'S HOW:",
+      "1": "Lie on you back and lift your shoulders from the ground as though you did a normal crunch.",
+      "2": "Lift your legs from the ground",
+      "3": "Breath out and tension your stomach at the same time as you bring your right knee towards the left elbow. The left leg should be straight during this movement.",
+      "4": "Bring back the right leg to the starting position and repeat the movement on the opposite side."
+    },
+    "legRaise": {
+      "title": "Leg raise",
+      "text": "Leg raises can feel as a quite tough exercise. It works your lower abs and inner thighs but also help your hip strenght and flexibility.",
+      "practise": "HERE'S HOW:",
+      "1": "Lie on your back on the floor or on a bench and put your hands under your bottom.",
+      "2": "Keep your legs straight and raise them towards your forehead while you tension your stomach.",
+      "3": "When your stomach is tense and the legs point straight up it is time to take them down. This you do in a controlled manner.",
+      "4": "In this way you keep going. Up and down."
+    }
+  },
+  "footer": {
+    "contact": "Contact me",
+    "follow": "Follow me",
+    "work": "See my other work",
+    "copy": "@2022 Rise to the occasion"
+  }
+}

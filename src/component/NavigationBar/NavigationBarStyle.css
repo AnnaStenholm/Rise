@@ -1,0 +1,16 @@
+.links {
+  box-shadow: inset 0 0 0 0 #ffefbe;
+  color: #ffefbe;
+  margin: 0 -0.25rem;
+  padding: 0 0.25rem;
+  transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.links:hover {
+  box-shadow: inset 260px 0 0 0 #ffefbe;
+  color: white;
+}
+
+.mobile_links:hover .mobile_texts {
+  color: #c07b90;
+}
